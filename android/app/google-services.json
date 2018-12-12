@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "526196024825",
+    "firebase_url": "https://talkmonkey-5b8ba.firebaseio.com",
+    "project_id": "talkmonkey-5b8ba",
+    "storage_bucket": "talkmonkey-5b8ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526196024825:android:1b0dea365b6f57f9",
+        "android_client_info": {
+          "package_name": "com.harrischris.talkmonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526196024825-2hebev8llrhrtfhsc87i27l39lfmdo5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdyuI8IRgdsPp0BwBhBbpB08Pt-v7C4ls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
